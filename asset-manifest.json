@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/maximaxtechnologies/static/css/main.7b77285c.css",
+    "main.js": "/maximaxtechnologies/static/js/main.522d3927.js",
+    "static/js/453.b8cc5c2c.chunk.js": "/maximaxtechnologies/static/js/453.b8cc5c2c.chunk.js",
+    "static/media/image4.jpg": "/maximaxtechnologies/static/media/image4.e6359c0e291609611345.jpg",
+    "static/media/trafic-lights.jpg": "/maximaxtechnologies/static/media/trafic-lights.fca91f983f8022169b36.jpg",
+    "static/media/image1.jpg": "/maximaxtechnologies/static/media/image1.a02311b3d1444b64fe3f.jpg",
+    "static/media/image2.jpg": "/maximaxtechnologies/static/media/image2.1851804e465dfa8cb61b.jpg",
+    "static/media/sensor.jpg": "/maximaxtechnologies/static/media/sensor.052a3116d5b7896f542b.jpg",
+    "static/media/weather.png": "/maximaxtechnologies/static/media/weather.643206a68c61ec5a4949.png",
+    "static/media/image3.png": "/maximaxtechnologies/static/media/image3.56d6f5f2a26603005fb5.png",
+    "static/media/home.jpg": "/maximaxtechnologies/static/media/home.711f57ef276581e2b499.jpg",
+    "static/media/ceo.jpeg": "/maximaxtechnologies/static/media/ceo.d6b631ad1bc6274716fc.jpeg",
+    "static/media/ceo1.jpeg": "/maximaxtechnologies/static/media/ceo1.846eb5ed95cc49f63648.jpeg",
+    "static/media/logo.jpeg": "/maximaxtechnologies/static/media/logo.60a82468cb6ae58b0c09.jpeg",
+    "static/media/voice.jpg": "/maximaxtechnologies/static/media/voice.2f5129186715cd687380.jpg",
+    "static/media/music.jpg": "/maximaxtechnologies/static/media/music.28e92abc4fac8105d43c.jpg",
+    "static/media/lock.webp": "/maximaxtechnologies/static/media/lock.de3337de638f4c36db71.webp",
+    "static/media/LED.jpg": "/maximaxtechnologies/static/media/LED.d880e229590d1843155b.jpg",
+    "index.html": "/maximaxtechnologies/index.html",
+    "main.7b77285c.css.map": "/maximaxtechnologies/static/css/main.7b77285c.css.map",
+    "main.522d3927.js.map": "/maximaxtechnologies/static/js/main.522d3927.js.map",
+    "453.b8cc5c2c.chunk.js.map": "/maximaxtechnologies/static/js/453.b8cc5c2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b77285c.css",
+    "static/js/main.522d3927.js"
+  ]
+}
